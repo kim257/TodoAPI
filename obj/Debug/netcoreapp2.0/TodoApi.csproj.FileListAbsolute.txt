@@ -1,0 +1,11 @@
+/Users/kim/workspace/dotNet/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.deps.json
+/Users/kim/workspace/dotNet/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.json
+/Users/kim/workspace/dotNet/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.runtimeconfig.dev.json
+/Users/kim/workspace/dotNet/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.dll
+/Users/kim/workspace/dotNet/TodoApi/TodoApi/bin/Debug/netcoreapp2.0/TodoApi.pdb
+/Users/kim/workspace/dotNet/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.csprojResolveAssemblyReference.cache
+/Users/kim/workspace/dotNet/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.csproj.CoreCompileInputs.cache
+/Users/kim/workspace/dotNet/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfoInputs.cache
+/Users/kim/workspace/dotNet/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.AssemblyInfo.cs
+/Users/kim/workspace/dotNet/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.dll
+/Users/kim/workspace/dotNet/TodoApi/TodoApi/obj/Debug/netcoreapp2.0/TodoApi.pdb
