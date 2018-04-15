@@ -12539,11 +12539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kim/workspace/dotNet/TodoApi/TodoApi/TodoApi.csproj",
+      "projectUniqueName": "/Users/kim/workspace/dotNet/Todo/TodoApi.csproj",
       "projectName": "TodoApi",
-      "projectPath": "/Users/kim/workspace/dotNet/TodoApi/TodoApi/TodoApi.csproj",
+      "projectPath": "/Users/kim/workspace/dotNet/Todo/TodoApi.csproj",
       "packagesPath": "/Users/kim/.nuget/packages/",
-      "outputPath": "/Users/kim/workspace/dotNet/TodoApi/TodoApi/obj",
+      "outputPath": "/Users/kim/workspace/dotNet/Todo/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
